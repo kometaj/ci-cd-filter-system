@@ -6,7 +6,6 @@ from pathlib import Path
 
 from ci_path_filter.cli import main
 
-
 CONFIG = '''filters:
   kotlin_sources:
     - "**/*.kt"
