@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+*.env
+dist/
+build/
+changed-files.txt

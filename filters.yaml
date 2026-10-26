@@ -1,0 +1,10 @@
+filters:
+  backend:
+    - "app/src/**/*.kt"
+    - "!app/src/test/**"
+  frontend:
+    - "web/**/*.ts"
+    - "web/**/*.tsx"
+  docs:
+    - "README.md"
+    - "docs/**/*.md"
